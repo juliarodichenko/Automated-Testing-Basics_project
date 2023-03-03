@@ -1,0 +1,22 @@
+{
+  "name": "practical_tasks_automated_testing_course",
+  "version": "1.0.0",
+  "description": "Practical tasks in Automated testing basics in JavaScript 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliarodichenko/Automated-Testing-Basics_project.git"
+  },
+  "author": "Julia Rodichenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliarodichenko/Automated-Testing-Basics_project/issues"
+  },
+  "homepage": "https://github.com/juliarodichenko/Automated-Testing-Basics_project#readme",
+  "devDependencies": {
+    "fs-extra": "^11.1.0"
+  }
+}
